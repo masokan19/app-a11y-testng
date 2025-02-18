@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-19T01:05:25 IST" name="First" finished-at="2025-02-19T01:06:13 IST" duration-ms="48463">
+  <suite started-at="2025-02-19T01:22:31 IST" name="First" finished-at="2025-02-19T01:23:16 IST" duration-ms="44960">
     <groups>
     </groups>
-    <test started-at="2025-02-19T01:05:25 IST" name="FirstTest" finished-at="2025-02-19T01:06:13 IST" duration-ms="48463">
+    <test started-at="2025-02-19T01:22:31 IST" name="FirstTest" finished-at="2025-02-19T01:23:16 IST" duration-ms="44960">
       <class name="com.browserstack.FirstTest">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:com.browserstack.FirstTest@44841b43]" started-at="2025-02-19T01:05:25 IST" name="setUp" finished-at="2025-02-19T01:05:45 IST" duration-ms="20243" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:com.browserstack.FirstTest@25a5c7db]" started-at="2025-02-19T01:22:31 IST" name="setUp" finished-at="2025-02-19T01:22:49 IST" duration-ms="17750" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,11 +23,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="test()[pri:0, instance:com.browserstack.FirstTest@44841b43]" started-at="2025-02-19T01:05:45 IST" name="test" finished-at="2025-02-19T01:05:59 IST" duration-ms="14111" status="PASS">
+        <test-method signature="test()[pri:0, instance:com.browserstack.FirstTest@25a5c7db]" started-at="2025-02-19T01:22:49 IST" name="test" finished-at="2025-02-19T01:23:02 IST" duration-ms="13337" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.browserstack.FirstTest@44841b43]" started-at="2025-02-19T01:06:11 IST" name="tearDown" finished-at="2025-02-19T01:06:13 IST" duration-ms="2138" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.browserstack.FirstTest@25a5c7db]" started-at="2025-02-19T01:23:13 IST" name="tearDown" finished-at="2025-02-19T01:23:16 IST" duration-ms="3238" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

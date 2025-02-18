@@ -4,5 +4,5 @@
 [percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
 [percy] Percy has started!
 [percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-0
-[percy] Finalized build #26: https://percy.io/e7bf76a3/app/Ally-Project-b307c675/builds/38789311
-[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 38789311_build_38789311_cli_5c46f545bd5895ea41de66cf205993da988622ae
+[percy] Finalized build #27: https://percy.io/e7bf76a3/app/Ally-Project-b307c675/builds/38789608
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 38789608_build_38789608_cli_2d65964833c65c87b880e7b7661b5b49f53eabe5
