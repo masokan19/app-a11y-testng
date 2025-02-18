@@ -1,0 +1,905 @@
+13:53:08.161 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+13:53:08.161 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+13:53:08.262 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/testng-appium-app-browserstack-w3c 3/android/testng-examples, user.dir=/Users/manyaasokan/Downloads/testng-appium-app-browserstack-w3c 3/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+13:53:08.262 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/testng-appium-app-browserstack-w3c 3/android/testng-examples/browserstack.yml
+13:53:08.294 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:53:08.296 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+13:53:08.297 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+13:53:08.418 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [wikiapp]
+13:53:08.418 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to java
+13:53:08.419 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: fd369e43-b973-4af7-8b9c-cdb219aef003
+13:53:08.419 [main] INFO  c.b.config.BrowserStackConfig - INFO
+13:53:11.124 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+13:53:11.566 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+13:53:13.108 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: g7qwktvhdwl6eqibjvsvudt225kb91zqeue2ibko
+13:53:13.108 [main] INFO  c.b.config.BrowserStackConfig - INFO
+13:53:13.108 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+13:53:13.108 [main] WARN  com.browserstack.testOps.Listener - Exception in accessibility build creation Invalid frameWork version. Valid frameWork : ["TestNG", "WebdriverIO-mocha", "WebdriverIO-cucumber"]
+13:54:04.026 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/7cd7d95b095a9464bb43a845b2adced62f9ef2f5
+13:54:04.028 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:54:04.062 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: fd369e43-b973-4af7-8b9c-cdb219aef003, testhub id: g7qwktvhdwl6eqibjvsvudt225kb91zqeue2ibko
+13:54:04.062 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:59:10.922 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+13:59:10.922 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+13:59:11.023 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/testng-appium-app-browserstack-w3c 3/android/testng-examples, user.dir=/Users/manyaasokan/Downloads/testng-appium-app-browserstack-w3c 3/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+13:59:11.023 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/testng-appium-app-browserstack-w3c 3/android/testng-examples/browserstack.yml
+13:59:11.053 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:59:11.055 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+13:59:11.055 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+13:59:11.175 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [wikiapp]
+13:59:11.175 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+13:59:11.176 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: cbc3c2fc-6868-45fd-86cb-1602f37bbe16
+13:59:11.176 [main] INFO  c.b.config.BrowserStackConfig - INFO
+13:59:14.262 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+13:59:15.609 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: rzgzcq0oqxrxvxyzt2btewtrw2tfwayv5yxvv0cc
+13:59:15.609 [main] INFO  c.b.config.BrowserStackConfig - INFO
+13:59:15.630 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+13:59:25.940 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+13:59:52.561 [FirstTest@null] INFO  c.b.config.BrowserStackConfig - WARN
+13:59:52.561 [FirstTest@null] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+13:59:53.189 [Forwarding clickElement on session c318736cedf7689fc20cff54ff7cf2ef72d168f0 to remote] INFO  c.b.config.BrowserStackConfig - WARN
+13:59:53.189 [Forwarding clickElement on session c318736cedf7689fc20cff54ff7cf2ef72d168f0 to remote] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+13:59:55.156 [Forwarding sendKeysToElement on session c318736cedf7689fc20cff54ff7cf2ef72d168f0 to remote] INFO  c.b.config.BrowserStackConfig - WARN
+13:59:55.156 [Forwarding sendKeysToElement on session c318736cedf7689fc20cff54ff7cf2ef72d168f0 to remote] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+14:00:01.178 [Forwarding executeScript on session c318736cedf7689fc20cff54ff7cf2ef72d168f0 to remote] INFO  c.b.config.BrowserStackConfig - WARN
+14:00:01.178 [Forwarding executeScript on session c318736cedf7689fc20cff54ff7cf2ef72d168f0 to remote] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+14:00:01.314 [Forwarding executeScript on session c318736cedf7689fc20cff54ff7cf2ef72d168f0 to remote] INFO  c.b.config.BrowserStackConfig - WARN
+14:00:01.314 [Forwarding executeScript on session c318736cedf7689fc20cff54ff7cf2ef72d168f0 to remote] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+14:00:01.865 [Forwarding executeScript on session c318736cedf7689fc20cff54ff7cf2ef72d168f0 to remote] INFO  c.b.config.BrowserStackConfig - WARN
+14:00:01.865 [Forwarding executeScript on session c318736cedf7689fc20cff54ff7cf2ef72d168f0 to remote] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+14:00:01.915 [Forwarding executeScript on session c318736cedf7689fc20cff54ff7cf2ef72d168f0 to remote] INFO  c.b.config.BrowserStackConfig - WARN
+14:00:01.915 [Forwarding executeScript on session c318736cedf7689fc20cff54ff7cf2ef72d168f0 to remote] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+14:00:01.958 [test@null] INFO  c.b.config.BrowserStackConfig - WARN
+14:00:01.958 [test@null] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+14:00:01.982 [Forwarding executeScript on session c318736cedf7689fc20cff54ff7cf2ef72d168f0 to remote] INFO  c.b.config.BrowserStackConfig - WARN
+14:00:01.982 [Forwarding executeScript on session c318736cedf7689fc20cff54ff7cf2ef72d168f0 to remote] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+14:00:02.035 [Forwarding executeScript on session c318736cedf7689fc20cff54ff7cf2ef72d168f0 to remote] INFO  c.b.config.BrowserStackConfig - WARN
+14:00:02.035 [Forwarding executeScript on session c318736cedf7689fc20cff54ff7cf2ef72d168f0 to remote] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+14:00:02.595 [Forwarding executeScript on session c318736cedf7689fc20cff54ff7cf2ef72d168f0 to remote] INFO  c.b.config.BrowserStackConfig - WARN
+14:00:02.595 [Forwarding executeScript on session c318736cedf7689fc20cff54ff7cf2ef72d168f0 to remote] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+14:00:03.036 [Forwarding executeScript on session c318736cedf7689fc20cff54ff7cf2ef72d168f0 to remote] INFO  c.b.config.BrowserStackConfig - WARN
+14:00:03.036 [Forwarding executeScript on session c318736cedf7689fc20cff54ff7cf2ef72d168f0 to remote] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+14:00:05.825 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/rzgzcq0oqxrxvxyzt2btewtrw2tfwayv5yxvv0cc to view build report, insights, and many more debugging information all at one place!
+
+14:00:05.825 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+14:00:08.448 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+14:00:10.594 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/a2b52b80dd7b01d64405e3f72e972fbcb01ccf24
+14:00:10.595 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+14:00:10.621 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: cbc3c2fc-6868-45fd-86cb-1602f37bbe16, testhub id: rzgzcq0oqxrxvxyzt2btewtrw2tfwayv5yxvv0cc
+14:00:10.621 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+14:00:28.483 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+14:00:28.483 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+14:00:28.573 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/testng-appium-app-browserstack-w3c 3/android/testng-examples, user.dir=/Users/manyaasokan/Downloads/testng-appium-app-browserstack-w3c 3/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+14:00:28.573 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/testng-appium-app-browserstack-w3c 3/android/testng-examples/browserstack.yml
+14:00:28.600 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+14:00:28.602 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+14:00:28.602 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+14:00:28.703 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [wikiapp]
+14:00:28.703 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+14:00:28.704 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 18d85e9f-2b8f-4d56-8cc9-152746a5b06a
+14:00:28.704 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:00:31.674 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+14:00:33.093 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: 77gei47mkkrfcrbwsljxpbxkdvfexzy5uj1aehbv
+14:00:33.093 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:00:33.108 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+14:00:39.195 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+14:01:12.764 [FirstTest@null] INFO  c.b.config.BrowserStackConfig - WARN
+14:01:12.764 [FirstTest@null] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+14:01:14.456 [Forwarding clickElement on session 7eb7a9810d10563a0984874f2b6c5db4c95c7b50 to remote] INFO  c.b.config.BrowserStackConfig - WARN
+14:01:14.457 [Forwarding clickElement on session 7eb7a9810d10563a0984874f2b6c5db4c95c7b50 to remote] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+14:01:17.106 [Forwarding sendKeysToElement on session 7eb7a9810d10563a0984874f2b6c5db4c95c7b50 to remote] INFO  c.b.config.BrowserStackConfig - WARN
+14:01:17.106 [Forwarding sendKeysToElement on session 7eb7a9810d10563a0984874f2b6c5db4c95c7b50 to remote] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+14:01:23.644 [Forwarding executeScript on session 7eb7a9810d10563a0984874f2b6c5db4c95c7b50 to remote] INFO  c.b.config.BrowserStackConfig - WARN
+14:01:23.644 [Forwarding executeScript on session 7eb7a9810d10563a0984874f2b6c5db4c95c7b50 to remote] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+14:01:24.358 [Forwarding executeScript on session 7eb7a9810d10563a0984874f2b6c5db4c95c7b50 to remote] INFO  c.b.config.BrowserStackConfig - WARN
+14:01:24.358 [Forwarding executeScript on session 7eb7a9810d10563a0984874f2b6c5db4c95c7b50 to remote] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+14:01:25.267 [Forwarding executeScript on session 7eb7a9810d10563a0984874f2b6c5db4c95c7b50 to remote] INFO  c.b.config.BrowserStackConfig - WARN
+14:01:25.267 [Forwarding executeScript on session 7eb7a9810d10563a0984874f2b6c5db4c95c7b50 to remote] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+14:01:25.333 [Forwarding executeScript on session 7eb7a9810d10563a0984874f2b6c5db4c95c7b50 to remote] INFO  c.b.config.BrowserStackConfig - WARN
+14:01:25.333 [Forwarding executeScript on session 7eb7a9810d10563a0984874f2b6c5db4c95c7b50 to remote] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+14:01:25.417 [test@null] INFO  c.b.config.BrowserStackConfig - WARN
+14:01:25.417 [test@null] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+14:01:25.437 [Forwarding executeScript on session 7eb7a9810d10563a0984874f2b6c5db4c95c7b50 to remote] INFO  c.b.config.BrowserStackConfig - WARN
+14:01:25.437 [Forwarding executeScript on session 7eb7a9810d10563a0984874f2b6c5db4c95c7b50 to remote] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+14:01:25.591 [Forwarding executeScript on session 7eb7a9810d10563a0984874f2b6c5db4c95c7b50 to remote] INFO  c.b.config.BrowserStackConfig - WARN
+14:01:25.591 [Forwarding executeScript on session 7eb7a9810d10563a0984874f2b6c5db4c95c7b50 to remote] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+14:01:26.005 [Forwarding executeScript on session 7eb7a9810d10563a0984874f2b6c5db4c95c7b50 to remote] INFO  c.b.config.BrowserStackConfig - WARN
+14:01:26.005 [Forwarding executeScript on session 7eb7a9810d10563a0984874f2b6c5db4c95c7b50 to remote] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+14:01:26.537 [Forwarding executeScript on session 7eb7a9810d10563a0984874f2b6c5db4c95c7b50 to remote] INFO  c.b.config.BrowserStackConfig - WARN
+14:01:26.537 [Forwarding executeScript on session 7eb7a9810d10563a0984874f2b6c5db4c95c7b50 to remote] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+14:01:29.137 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/77gei47mkkrfcrbwsljxpbxkdvfexzy5uj1aehbv to view build report, insights, and many more debugging information all at one place!
+
+14:01:29.138 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+14:01:31.885 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+14:01:33.804 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/29f6826d623714488e735b37e09e45727d245cde
+14:01:33.804 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+14:01:33.817 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: 18d85e9f-2b8f-4d56-8cc9-152746a5b06a, testhub id: 77gei47mkkrfcrbwsljxpbxkdvfexzy5uj1aehbv
+14:01:33.818 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+17:43:47.981 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+17:43:47.982 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+17:43:48.085 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/testng-appium-app-browserstack-w3c 3/android/testng-examples, user.dir=/Users/manyaasokan/Downloads/testng-appium-app-browserstack-w3c 3/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+17:43:48.085 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/testng-appium-app-browserstack-w3c 3/android/testng-examples/browserstack.yml
+17:43:48.119 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:43:48.121 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+17:43:48.121 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+17:43:48.224 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [wikiapp]
+17:43:48.224 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+17:43:48.225 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 2a93e17a-ba9d-4182-af01-1628764ea754
+17:43:48.225 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:43:52.017 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+17:43:53.519 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: guawnxsvbxuucdsegoocsn9vv0mrzlcgxc7bxvfe
+17:43:53.519 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:43:53.536 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+17:44:04.856 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+17:44:31.746 [FirstTest@null] INFO  c.b.config.BrowserStackConfig - WARN
+17:44:31.746 [FirstTest@null] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+17:44:32.545 [Forwarding clickElement on session 73e2d95f72f4587925fffe2d3957569fa47c8925 to remote] INFO  c.b.config.BrowserStackConfig - WARN
+17:44:32.545 [Forwarding clickElement on session 73e2d95f72f4587925fffe2d3957569fa47c8925 to remote] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+17:44:34.855 [Forwarding sendKeysToElement on session 73e2d95f72f4587925fffe2d3957569fa47c8925 to remote] INFO  c.b.config.BrowserStackConfig - WARN
+17:44:34.856 [Forwarding sendKeysToElement on session 73e2d95f72f4587925fffe2d3957569fa47c8925 to remote] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+17:44:40.396 [Forwarding executeScript on session 73e2d95f72f4587925fffe2d3957569fa47c8925 to remote] INFO  c.b.config.BrowserStackConfig - WARN
+17:44:40.397 [Forwarding executeScript on session 73e2d95f72f4587925fffe2d3957569fa47c8925 to remote] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+17:44:40.541 [Forwarding executeScript on session 73e2d95f72f4587925fffe2d3957569fa47c8925 to remote] INFO  c.b.config.BrowserStackConfig - WARN
+17:44:40.541 [Forwarding executeScript on session 73e2d95f72f4587925fffe2d3957569fa47c8925 to remote] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+17:44:41.134 [Forwarding executeScript on session 73e2d95f72f4587925fffe2d3957569fa47c8925 to remote] INFO  c.b.config.BrowserStackConfig - WARN
+17:44:41.134 [Forwarding executeScript on session 73e2d95f72f4587925fffe2d3957569fa47c8925 to remote] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+17:44:41.207 [Forwarding executeScript on session 73e2d95f72f4587925fffe2d3957569fa47c8925 to remote] INFO  c.b.config.BrowserStackConfig - WARN
+17:44:41.207 [Forwarding executeScript on session 73e2d95f72f4587925fffe2d3957569fa47c8925 to remote] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+17:44:41.304 [test@null] INFO  c.b.config.BrowserStackConfig - WARN
+17:44:41.304 [test@null] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+17:44:41.325 [Forwarding executeScript on session 73e2d95f72f4587925fffe2d3957569fa47c8925 to remote] INFO  c.b.config.BrowserStackConfig - WARN
+17:44:41.325 [Forwarding executeScript on session 73e2d95f72f4587925fffe2d3957569fa47c8925 to remote] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+17:44:41.389 [Forwarding executeScript on session 73e2d95f72f4587925fffe2d3957569fa47c8925 to remote] INFO  c.b.config.BrowserStackConfig - WARN
+17:44:41.389 [Forwarding executeScript on session 73e2d95f72f4587925fffe2d3957569fa47c8925 to remote] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+17:44:41.858 [Forwarding executeScript on session 73e2d95f72f4587925fffe2d3957569fa47c8925 to remote] INFO  c.b.config.BrowserStackConfig - WARN
+17:44:41.858 [Forwarding executeScript on session 73e2d95f72f4587925fffe2d3957569fa47c8925 to remote] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+17:44:42.589 [Forwarding executeScript on session 73e2d95f72f4587925fffe2d3957569fa47c8925 to remote] INFO  c.b.config.BrowserStackConfig - WARN
+17:44:42.589 [Forwarding executeScript on session 73e2d95f72f4587925fffe2d3957569fa47c8925 to remote] WARN  c.b.u.AccessibilitySeleniumUtilityMethods - App Accessibility Automation tests are supported on OS version 11.0 and above for Android devices.
+17:44:45.336 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/guawnxsvbxuucdsegoocsn9vv0mrzlcgxc7bxvfe to view build report, insights, and many more debugging information all at one place!
+
+17:44:45.336 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+17:44:48.160 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+17:44:50.264 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/e668197c3fa94cfd54f460b437db39daee301961
+17:44:50.264 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+17:44:50.282 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: 2a93e17a-ba9d-4182-af01-1628764ea754, testhub id: guawnxsvbxuucdsegoocsn9vv0mrzlcgxc7bxvfe
+17:44:50.283 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+19:50:58.271 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+19:50:58.271 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+19:50:58.375 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples, user.dir=/Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+19:50:58.375 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples/browserstack.yml
+19:50:58.405 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:50:58.407 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:50:58.407 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+19:50:58.529 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [wikiapp]
+19:50:58.529 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+19:50:58.530 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: ac6e8e82-4f53-4e27-b06e-77700bc26f13
+19:50:58.530 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:51:01.638 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+19:51:03.092 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: 23p1uu5j4nwya3uhr1yqtrx2t4bwdhwqfgolrcsv
+19:51:03.092 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:51:03.108 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+19:51:14.249 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+19:51:33.120 [FirstTest@null] INFO  c.b.config.BrowserStackConfig - INFO
+19:52:02.253 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/23p1uu5j4nwya3uhr1yqtrx2t4bwdhwqfgolrcsv to view build report, insights, and many more debugging information all at one place!
+
+19:52:02.254 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+19:52:05.041 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+19:52:07.091 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/643a732f66fcafb4524511b0114d3a283b7c940c
+19:52:07.092 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+19:52:07.107 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: ac6e8e82-4f53-4e27-b06e-77700bc26f13, testhub id: 23p1uu5j4nwya3uhr1yqtrx2t4bwdhwqfgolrcsv
+19:52:07.107 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:37.963 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+19:54:37.964 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+19:54:38.065 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples, user.dir=/Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+19:54:38.065 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples/browserstack.yml
+19:54:38.099 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:54:38.101 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:54:38.101 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+19:54:38.225 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [wikiapp]
+19:54:38.225 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+19:54:38.226 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 2510e6e6-fdde-47b6-8eaa-f0e13fbbcc70
+19:54:38.226 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:41.280 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+19:54:42.767 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: reer4yvy8vmsjx2uqow5mpnioiu2kzlmg4nwhgt4
+19:54:42.767 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:42.782 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+19:54:54.026 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+19:55:12.512 [FirstTest@null] INFO  c.b.config.BrowserStackConfig - INFO
+19:55:41.783 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/reer4yvy8vmsjx2uqow5mpnioiu2kzlmg4nwhgt4 to view build report, insights, and many more debugging information all at one place!
+
+19:55:41.785 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+19:55:44.621 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+19:55:46.766 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/b4914f1f307440182aba1a0abb641c5c9022ae68
+19:55:46.767 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+19:55:46.786 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: 2510e6e6-fdde-47b6-8eaa-f0e13fbbcc70, testhub id: reer4yvy8vmsjx2uqow5mpnioiu2kzlmg4nwhgt4
+19:55:46.787 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+15:49:04.361 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+15:49:04.361 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+15:49:04.465 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples, user.dir=/Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+15:49:04.465 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples/browserstack.yml
+15:49:04.495 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:49:04.497 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+15:49:04.497 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+15:49:04.600 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [${BROWSERSTACK_APP}]
+15:49:04.600 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:49:04.601 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 392a0516-c65e-427e-9f04-a8a113733f91
+15:49:04.601 [main] INFO  c.b.config.BrowserStackConfig - INFO
+15:49:09.156 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+15:49:11.538 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: z0wixzoqca4emeb3bx5ciezlhgewakw1iwu4f9c2
+15:49:11.539 [main] INFO  c.b.config.BrowserStackConfig - INFO
+15:49:11.555 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+15:49:32.601 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+15:49:34.683 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/z0wixzoqca4emeb3bx5ciezlhgewakw1iwu4f9c2 to view build report, insights, and many more debugging information all at one place!
+
+15:49:34.683 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+15:49:41.326 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+15:49:43.744 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: 392a0516-c65e-427e-9f04-a8a113733f91, testhub id: z0wixzoqca4emeb3bx5ciezlhgewakw1iwu4f9c2
+15:49:43.745 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+15:51:56.161 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+15:51:56.162 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+15:51:56.258 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples, user.dir=/Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+15:51:56.259 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples/browserstack.yml
+15:51:56.288 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:51:56.290 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+15:51:56.290 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+15:51:56.389 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [${BROWSERSTACK_APP}]
+15:51:56.389 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:51:56.390 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: c18f26bf-4d71-4ada-a743-f2138e62acdb
+15:51:56.390 [main] INFO  c.b.config.BrowserStackConfig - INFO
+15:51:59.579 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+15:52:02.591 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: jbtll0gq3twvgnwang3oovlzjahfpz5tz8eplccw
+15:52:02.591 [main] INFO  c.b.config.BrowserStackConfig - INFO
+15:52:02.611 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+15:52:18.318 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+15:52:23.632 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/jbtll0gq3twvgnwang3oovlzjahfpz5tz8eplccw to view build report, insights, and many more debugging information all at one place!
+
+15:52:23.632 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+15:52:31.146 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+15:52:34.698 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: c18f26bf-4d71-4ada-a743-f2138e62acdb, testhub id: jbtll0gq3twvgnwang3oovlzjahfpz5tz8eplccw
+15:52:34.698 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+15:52:57.331 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+15:52:57.331 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+15:52:57.419 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples, user.dir=/Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+15:52:57.419 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples/browserstack.yml
+15:52:57.446 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:52:57.448 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+15:52:57.448 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+15:52:57.548 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [${BROWSERSTACK_APP}]
+15:52:57.548 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:52:57.549 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: e40e12a1-82fa-4130-8717-9af732635a3d
+15:52:57.549 [main] INFO  c.b.config.BrowserStackConfig - INFO
+15:53:01.250 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+15:53:03.841 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: h2qgiaw58blesniyxm3t9ly9hyrpjzxyyj0vzj9s
+15:53:03.841 [main] INFO  c.b.config.BrowserStackConfig - INFO
+15:53:03.856 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+15:53:24.446 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+15:56:24.602 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/h2qgiaw58blesniyxm3t9ly9hyrpjzxyyj0vzj9s to view build report, insights, and many more debugging information all at one place!
+
+15:56:24.602 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+15:56:29.316 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+15:56:33.406 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: e40e12a1-82fa-4130-8717-9af732635a3d, testhub id: h2qgiaw58blesniyxm3t9ly9hyrpjzxyyj0vzj9s
+15:56:33.406 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+15:58:38.286 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+15:58:38.286 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+15:58:38.373 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples, user.dir=/Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+15:58:38.373 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples/browserstack.yml
+15:58:38.399 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:58:38.401 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+15:58:38.401 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+15:58:38.500 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [${BROWSERSTACK_APP}]
+15:58:38.501 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:58:38.501 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 98337521-bbe9-4962-8b33-ce82445242df
+15:58:38.501 [main] INFO  c.b.config.BrowserStackConfig - INFO
+15:58:43.593 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+15:58:46.652 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: e2cafelyyzm8x1quzimjwvjfmfiwwowm0noecdpc
+15:58:46.652 [main] INFO  c.b.config.BrowserStackConfig - INFO
+15:58:46.667 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+15:58:52.588 [SIGINT handler] INFO  c.b.utils.ExitSignalHandler - Shutdown triggered by: INT 2
+15:58:52.604 [main] INFO  com.browserstack.percy.PercyBinary - Downloading percy binary from  https://github.com/percy/cli/releases/latest/download/percy-osx.zip
+15:58:52.865 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/e2cafelyyzm8x1quzimjwvjfmfiwwowm0noecdpc to view build report, insights, and many more debugging information all at one place!
+
+15:58:52.865 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+15:58:58.916 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: 98337521-bbe9-4962-8b33-ce82445242df, testhub id: e2cafelyyzm8x1quzimjwvjfmfiwwowm0noecdpc
+15:58:58.916 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:06:16.898 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+16:06:16.898 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+16:06:16.986 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples, user.dir=/Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+16:06:16.986 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples/browserstack.yml
+16:06:17.013 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:06:17.015 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+16:06:17.015 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+16:06:17.112 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [${BROWSERSTACK_APP}]
+16:06:17.112 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:06:17.113 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 87f393ed-b863-4493-a488-02e873e24870
+16:06:17.113 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:06:35.977 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+16:06:51.583 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: 7iqmisptl5kt9d1x6cyy7qhq6qbumgzafpnblyr2
+16:06:51.584 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:06:51.600 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+16:06:52.873 [main] INFO  com.browserstack.percy.PercyBinary - Downloading percy binary from  https://github.com/percy/cli/releases/latest/download/percy-osx.zip
+16:16:37.017 [Thread-7] INFO  com.browserstack.percy.Percy - Percy started successfully
+16:18:12.508 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/7iqmisptl5kt9d1x6cyy7qhq6qbumgzafpnblyr2 to view build report, insights, and many more debugging information all at one place!
+
+16:18:12.508 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:18:16.946 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+16:18:19.209 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: 87f393ed-b863-4493-a488-02e873e24870, testhub id: 7iqmisptl5kt9d1x6cyy7qhq6qbumgzafpnblyr2
+16:18:19.210 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+18:49:39.595 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+18:49:39.596 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+18:49:39.710 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples, user.dir=/Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+18:49:39.710 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples/browserstack.yml
+18:49:39.744 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:49:39.747 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+18:49:39.747 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+18:49:39.881 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [${BROWSERSTACK_APP}]
+18:49:39.881 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+18:49:39.882 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 9563a593-e22c-44ba-bde0-35fd1e653fe7
+18:49:39.882 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:49:44.806 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+18:49:48.685 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: xrmytfvhmjyf9tprymmoav1qqlbknyapxv1cenjw
+18:49:48.685 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:49:48.707 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+18:50:31.819 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+18:52:06.537 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/xrmytfvhmjyf9tprymmoav1qqlbknyapxv1cenjw to view build report, insights, and many more debugging information all at one place!
+
+18:52:06.537 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+18:52:13.847 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+18:52:16.222 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: 9563a593-e22c-44ba-bde0-35fd1e653fe7, testhub id: xrmytfvhmjyf9tprymmoav1qqlbknyapxv1cenjw
+18:52:16.222 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+19:07:05.917 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+19:07:05.918 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+19:07:06.016 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples, user.dir=/Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+19:07:06.017 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples/browserstack.yml
+19:07:06.046 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:07:06.048 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:07:06.048 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+19:07:06.166 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [${BROWSERSTACK_APP}]
+19:07:06.166 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+19:07:06.167 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 0fa35549-b0e7-442e-920a-828402e0d550
+19:07:06.167 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:07:09.525 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+19:07:11.751 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: syrhu4qir6tbx8detbblbcvzchvxmhzuxhrdmwgx
+19:07:11.751 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:07:11.768 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+19:07:37.887 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+19:09:15.667 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/syrhu4qir6tbx8detbblbcvzchvxmhzuxhrdmwgx to view build report, insights, and many more debugging information all at one place!
+
+19:09:15.667 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+19:09:23.702 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+19:09:25.650 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: 0fa35549-b0e7-442e-920a-828402e0d550, testhub id: syrhu4qir6tbx8detbblbcvzchvxmhzuxhrdmwgx
+19:09:25.651 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+19:16:47.137 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+19:16:47.137 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+19:16:47.225 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples, user.dir=/Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+19:16:47.226 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples/browserstack.yml
+19:16:47.253 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:16:47.255 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:16:47.255 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+19:16:47.351 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [${BROWSERSTACK_APP}]
+19:16:47.351 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+19:16:47.352 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 978505e7-7d4b-432a-a36e-75bdba7a3308
+19:16:47.352 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:16:56.201 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+19:16:57.646 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: 8vsnbuminz8qxequed7u120zi1vckn9qyhuu1ybi
+19:16:57.646 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:16:57.656 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+19:17:27.861 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+19:19:19.933 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/8vsnbuminz8qxequed7u120zi1vckn9qyhuu1ybi to view build report, insights, and many more debugging information all at one place!
+
+19:19:19.933 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+19:19:36.044 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+19:45:45.614 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+19:45:45.614 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+19:45:45.715 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples, user.dir=/Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+19:45:45.716 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples/browserstack.yml
+19:45:45.745 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:45:45.747 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:45:45.747 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+19:45:45.867 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [${BROWSERSTACK_APP}]
+19:45:45.867 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+19:45:45.868 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 2ff6bb68-6e11-441d-b6e9-f12bd939c040
+19:45:45.868 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:45:49.286 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+19:45:51.032 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: qhw7ivmg54a0rwhvi6nvl4ragswvyyer9uogojpm
+19:45:51.032 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:45:51.046 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+19:46:16.559 [SIGINT handler] INFO  c.b.utils.ExitSignalHandler - Shutdown triggered by: INT 2
+19:46:16.833 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/qhw7ivmg54a0rwhvi6nvl4ragswvyyer9uogojpm to view build report, insights, and many more debugging information all at one place!
+
+19:46:16.833 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+19:46:16.990 [Thread-5] ERROR com.browserstack.percy.Percy - Error starting percy
+19:46:20.686 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+19:46:20.686 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+19:46:20.774 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples, user.dir=/Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+19:46:20.775 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/app_a11y_test_project 2/android/testng-examples/browserstack.yml
+19:46:20.802 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:46:20.803 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:46:20.804 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+19:46:20.905 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [${BROWSERSTACK_APP}]
+19:46:20.905 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+19:46:20.906 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 97e73574-c882-4c72-b3f9-baca98346e70
+19:46:20.907 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:46:21.098 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: 2ff6bb68-6e11-441d-b6e9-f12bd939c040, testhub id: qhw7ivmg54a0rwhvi6nvl4ragswvyyer9uogojpm
+19:46:21.099 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+19:46:27.340 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+19:46:31.211 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: ceinxbdq7p6xrwr1shmtilhhfewehcqd2bwxalfr
+19:46:31.212 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:46:31.224 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+19:47:01.968 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+19:48:47.022 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ceinxbdq7p6xrwr1shmtilhhfewehcqd2bwxalfr to view build report, insights, and many more debugging information all at one place!
+
+19:48:47.022 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+19:48:58.009 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+19:49:02.851 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: 97e73574-c882-4c72-b3f9-baca98346e70, testhub id: ceinxbdq7p6xrwr1shmtilhhfewehcqd2bwxalfr
+19:49:02.852 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+23:16:39.042 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+23:16:39.043 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+23:16:39.152 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, user.dir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+23:16:39.152 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples/browserstack.yml
+23:16:39.184 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+23:16:39.186 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+23:16:39.186 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+23:16:39.291 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [${BROWSERSTACK_APP}]
+23:16:39.291 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+23:16:39.292 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 7160e74d-f599-4e46-a9bc-d13f98747ea1
+23:16:39.292 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:16:42.441 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+23:16:43.929 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: jjm92dgmmm6qtt9oohefmlashsiopmdifvwwurk0
+23:16:43.930 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:16:43.946 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+23:16:58.139 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+23:17:01.146 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/jjm92dgmmm6qtt9oohefmlashsiopmdifvwwurk0 to view build report, insights, and many more debugging information all at one place!
+
+23:17:01.146 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+23:17:03.547 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+23:17:05.497 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: 7160e74d-f599-4e46-a9bc-d13f98747ea1, testhub id: jjm92dgmmm6qtt9oohefmlashsiopmdifvwwurk0
+23:17:05.497 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+23:19:28.483 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+23:19:28.483 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+23:19:28.582 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, user.dir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+23:19:28.582 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples/browserstack.yml
+23:19:28.610 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+23:19:28.612 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+23:19:28.612 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+23:19:28.715 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [${BROWSERSTACK_APP}]
+23:19:28.715 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+23:19:28.716 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: e529950a-17c7-4343-9cf5-771b4ec9ddac
+23:19:28.716 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:19:31.882 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+23:19:33.454 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: wjmvuvwimu8w6euk7znh1rggfhs2a29nodxtgvbw
+23:19:33.454 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:19:33.470 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+23:19:42.107 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+23:19:45.660 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/wjmvuvwimu8w6euk7znh1rggfhs2a29nodxtgvbw to view build report, insights, and many more debugging information all at one place!
+
+23:19:45.661 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+23:19:48.127 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+23:19:50.129 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: e529950a-17c7-4343-9cf5-771b4ec9ddac, testhub id: wjmvuvwimu8w6euk7znh1rggfhs2a29nodxtgvbw
+23:19:50.129 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+23:21:54.480 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+23:21:54.480 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+23:21:54.577 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, user.dir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+23:21:54.577 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples/browserstack.yml
+23:21:54.604 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+23:21:54.606 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+23:21:54.606 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+23:21:54.710 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [${BROWSERSTACK_APP}]
+23:21:54.710 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+23:21:54.711 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 9b706aae-5972-4f9a-8d69-204ac8487c9f
+23:21:54.711 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:21:57.730 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+23:21:59.444 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: mcfybm4jhmoorqa2gdt0h4wzt5xlyhe4ulaxldpf
+23:21:59.444 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:21:59.460 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+23:22:08.139 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+23:22:12.715 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/mcfybm4jhmoorqa2gdt0h4wzt5xlyhe4ulaxldpf to view build report, insights, and many more debugging information all at one place!
+
+23:22:12.715 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+23:22:15.145 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+23:22:17.035 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: 9b706aae-5972-4f9a-8d69-204ac8487c9f, testhub id: mcfybm4jhmoorqa2gdt0h4wzt5xlyhe4ulaxldpf
+23:22:17.035 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+23:24:05.065 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+23:24:05.065 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+23:24:05.154 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, user.dir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+23:24:05.154 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples/browserstack.yml
+23:24:05.181 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+23:24:05.183 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+23:24:05.183 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+23:24:05.283 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [${BROWSERSTACK_APP}]
+23:24:05.283 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+23:24:05.284 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: a28578d3-a525-4229-8df0-90764bf87b0f
+23:24:05.284 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:24:08.235 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+23:24:09.667 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: lbd0kprmfxs3vkpot4hxqeknkr53o4wzoy33yqqp
+23:24:09.667 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:24:09.683 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+23:24:19.082 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+23:24:25.360 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/lbd0kprmfxs3vkpot4hxqeknkr53o4wzoy33yqqp to view build report, insights, and many more debugging information all at one place!
+
+23:24:25.361 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+23:24:27.821 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+23:24:29.872 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: a28578d3-a525-4229-8df0-90764bf87b0f, testhub id: lbd0kprmfxs3vkpot4hxqeknkr53o4wzoy33yqqp
+23:24:29.872 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+23:34:48.999 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+23:34:48.999 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+23:34:49.155 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, user.dir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+23:34:49.156 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples/browserstack.yml
+23:34:49.186 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+23:34:49.188 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+23:34:49.188 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+23:34:49.367 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [${BROWSERSTACK_APP}]
+23:34:49.367 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+23:34:49.368 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 5203370d-5a82-4dfb-b486-6ce14d751c8c
+23:34:49.368 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:34:52.376 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+23:34:53.960 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: katn9hr9sszgq9ifmp9161vwbt6a86om6fnrcxpt
+23:34:53.961 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:34:53.977 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+23:35:02.635 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+23:35:07.494 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/katn9hr9sszgq9ifmp9161vwbt6a86om6fnrcxpt to view build report, insights, and many more debugging information all at one place!
+
+23:35:07.494 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+23:35:09.969 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+23:35:11.998 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: 5203370d-5a82-4dfb-b486-6ce14d751c8c, testhub id: katn9hr9sszgq9ifmp9161vwbt6a86om6fnrcxpt
+23:35:11.999 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+23:35:40.612 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+23:35:40.612 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+23:35:40.702 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, user.dir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+23:35:40.702 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples/browserstack.yml
+23:35:40.729 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+23:35:40.731 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+23:35:40.731 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+23:35:40.831 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [${BROWSERSTACK_APP}]
+23:35:40.831 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+23:35:40.832 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 4580a135-4b60-43d7-9571-ca8177e30cb1
+23:35:40.832 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:35:43.656 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+23:35:45.102 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: 3qqiy0w4nsrembqzxcwhj7y8c2hk31tn9ifhb4ex
+23:35:45.102 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:35:45.115 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+23:35:54.729 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+23:36:06.799 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/3qqiy0w4nsrembqzxcwhj7y8c2hk31tn9ifhb4ex to view build report, insights, and many more debugging information all at one place!
+
+23:36:06.799 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+23:36:09.250 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+23:36:11.822 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: 4580a135-4b60-43d7-9571-ca8177e30cb1, testhub id: 3qqiy0w4nsrembqzxcwhj7y8c2hk31tn9ifhb4ex
+23:36:11.822 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+23:41:41.312 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+23:41:41.313 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+23:41:41.412 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, user.dir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+23:41:41.412 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples/browserstack.yml
+23:41:41.440 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+23:41:41.442 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+23:41:41.442 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+23:41:41.542 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://6b4e6d68437285663f432490b31a46f00df76fcd]
+23:41:41.542 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+23:41:41.543 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: cad36432-dc8a-4091-afef-4a8137b8d571
+23:41:41.543 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:41:44.652 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+23:41:46.395 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: ui15gwhlenkelexoylac7eis0fs7xvdaq3mrnmrl
+23:41:46.396 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:41:46.412 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+23:41:56.100 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+23:42:01.141 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ui15gwhlenkelexoylac7eis0fs7xvdaq3mrnmrl to view build report, insights, and many more debugging information all at one place!
+
+23:42:01.141 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+23:42:03.597 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+23:42:05.423 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: cad36432-dc8a-4091-afef-4a8137b8d571, testhub id: ui15gwhlenkelexoylac7eis0fs7xvdaq3mrnmrl
+23:42:05.423 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+23:55:57.840 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+23:55:57.840 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+23:55:57.941 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, browserstack.app=bs\://6b4e6d68437285663f432490b31a46f00df76fcd, user.dir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+23:55:57.942 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples/browserstack.yml
+23:55:57.972 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+23:55:57.974 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+23:55:57.974 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+23:55:58.094 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs\://6b4e6d68437285663f432490b31a46f00df76fcd]
+23:55:58.094 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+23:55:58.095 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 38daf2c4-90e1-4405-87fc-d6255d9a50c1
+23:55:58.095 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:56:01.328 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+23:56:02.762 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: 6mc2w9dlvxdixfzyjfgiscph4bk2edbbvfiacsk0
+23:56:02.762 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:56:02.775 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+23:56:12.394 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+23:56:21.799 [SIGINT handler] INFO  c.b.utils.ExitSignalHandler - Shutdown triggered by: INT 2
+23:56:22.077 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/6mc2w9dlvxdixfzyjfgiscph4bk2edbbvfiacsk0 to view build report, insights, and many more debugging information all at one place!
+
+23:56:22.077 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+23:56:25.288 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/e54698d9c13e422e23c8a1aa4df0e77463e64d60
+23:56:25.289 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+23:56:25.303 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: 38daf2c4-90e1-4405-87fc-d6255d9a50c1, testhub id: 6mc2w9dlvxdixfzyjfgiscph4bk2edbbvfiacsk0
+23:56:25.303 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+23:57:32.578 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+23:57:32.578 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+23:57:32.677 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, browserstack.app=bs\://6b4e6d68437285663f432490b31a46f00df76fcd, user.dir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+23:57:32.677 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples/browserstack.yml
+23:57:32.703 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while parsing a flow mapping
+ in 'string', line 1, column 1:
+    {userName: YOUR_USERNAME, access ... 
+    ^
+expected ',' or '}', but got {
+ in 'string', line 1, column 61:
+     ... cessKey: YOUR_ACCESS_KEY, app: ${BROWSERSTACK_APP},
+                                         ^
+.
+23:57:32.705 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+23:57:32.706 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+23:57:32.707 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+23:57:32.807 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs\://6b4e6d68437285663f432490b31a46f00df76fcd]
+23:57:32.807 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+23:57:32.808 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 46ef7cfd-88fd-4a1c-b1a6-8208402220a4
+23:57:32.808 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:57:35.847 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+23:57:37.340 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: mrvijuodhglhpgajcbtgg25pe96umzlx0yc5q0lr
+23:57:37.340 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:57:37.341 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+23:57:45.990 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+23:58:14.976 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/mrvijuodhglhpgajcbtgg25pe96umzlx0yc5q0lr to view build report, insights, and many more debugging information all at one place!
+
+23:58:14.977 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+23:58:17.950 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+23:58:20.407 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+23:58:20.407 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+23:58:20.414 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: 46ef7cfd-88fd-4a1c-b1a6-8208402220a4, testhub id: mrvijuodhglhpgajcbtgg25pe96umzlx0yc5q0lr
+23:58:20.415 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+23:59:45.922 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+23:59:45.922 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+23:59:46.013 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, user.dir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+23:59:46.013 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples/browserstack.yml
+23:59:46.038 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while parsing a flow mapping
+ in 'string', line 1, column 1:
+    {userName: YOUR_USERNAME, access ... 
+    ^
+expected ',' or '}', but got {
+ in 'string', line 1, column 61:
+     ... cessKey: YOUR_ACCESS_KEY, app: ${BROWSERSTACK_APP},
+                                         ^
+.
+23:59:46.039 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+23:59:46.041 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+23:59:46.041 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+23:59:46.140 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+23:59:46.141 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 6aaff70f-fcaf-4d77-a016-d6b7ad068971
+23:59:46.141 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:59:49.057 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+23:59:50.309 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: 4dwxwa1v2cxd1rzwwu4vwoai3vqlvglhwlro327b
+23:59:50.309 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:59:50.309 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+23:59:51.635 [main] ERROR com.browserstack.PercyFactory - Error fetching percy token for project : %s.
+java.lang.IllegalArgumentException: No enum constant com.browserstack.percy.PercyCaptureMode.NULL
+	at java.base/java.lang.Enum.valueOf(Enum.java:240)
+	at com.browserstack.percy.PercyCaptureMode.valueOf(Unknown Source)
+	at com.browserstack.percy.PercyCaptureMode.fromString(Unknown Source)
+	at com.browserstack.PercyFactory.a(Unknown Source)
+	at com.browserstack.PercyFactory.<init>(Unknown Source)
+	at com.browserstack.PercyFactory.a(Unknown Source)
+	at com.browserstack.PercyFactory.a(Unknown Source)
+	at com.browserstack.PercyFactory.createInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.startBrowserStackAgent(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+23:59:51.636 [main] ERROR com.browserstack.PercyFactory - Initialization of percy failed java.lang.NullPointerException.
+23:59:59.031 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/4dwxwa1v2cxd1rzwwu4vwoai3vqlvglhwlro327b to view build report, insights, and many more debugging information all at one place!
+
+23:59:59.032 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+00:00:00.641 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+00:00:00.641 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+00:00:00.646 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: 6aaff70f-fcaf-4d77-a016-d6b7ad068971, testhub id: 4dwxwa1v2cxd1rzwwu4vwoai3vqlvglhwlro327b
+00:00:00.646 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+00:27:38.858 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+00:27:38.858 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+00:27:38.952 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, user.dir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+00:27:38.952 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples/browserstack.yml
+00:27:38.977 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while parsing a flow mapping
+ in 'string', line 1, column 1:
+    {userName: YOUR_USERNAME, access ... 
+    ^
+expected ',' or '}', but got {
+ in 'string', line 1, column 61:
+     ... cessKey: YOUR_ACCESS_KEY, app: ${BROWSERSTACK_APP},
+                                         ^
+.
+00:27:38.978 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+00:27:38.980 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+00:27:38.980 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+00:27:39.087 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+00:27:39.088 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: c2a9f3ac-4cd5-4096-89f2-d3974ec01e75
+00:27:39.088 [main] INFO  c.b.config.BrowserStackConfig - INFO
+00:27:42.679 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+00:27:44.006 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: nzyvhfukz90kmzt1dvrc6htbtwtf2yabsx7uh3og
+00:27:44.006 [main] INFO  c.b.config.BrowserStackConfig - INFO
+00:27:44.006 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+00:27:44.433 [main] ERROR com.browserstack.PercyFactory - Error fetching percy token for project : %s.
+java.lang.IllegalArgumentException: No enum constant com.browserstack.percy.PercyCaptureMode.NULL
+	at java.base/java.lang.Enum.valueOf(Enum.java:240)
+	at com.browserstack.percy.PercyCaptureMode.valueOf(Unknown Source)
+	at com.browserstack.percy.PercyCaptureMode.fromString(Unknown Source)
+	at com.browserstack.PercyFactory.a(Unknown Source)
+	at com.browserstack.PercyFactory.<init>(Unknown Source)
+	at com.browserstack.PercyFactory.a(Unknown Source)
+	at com.browserstack.PercyFactory.a(Unknown Source)
+	at com.browserstack.PercyFactory.createInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.startBrowserStackAgent(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+00:27:44.433 [main] ERROR com.browserstack.PercyFactory - Initialization of percy failed java.lang.NullPointerException.
+00:27:48.020 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/nzyvhfukz90kmzt1dvrc6htbtwtf2yabsx7uh3og to view build report, insights, and many more debugging information all at one place!
+
+00:27:48.020 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+00:27:49.601 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+00:27:49.601 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+00:27:49.607 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: c2a9f3ac-4cd5-4096-89f2-d3974ec01e75, testhub id: nzyvhfukz90kmzt1dvrc6htbtwtf2yabsx7uh3og
+00:27:49.608 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+00:37:36.225 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+00:37:36.225 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+00:37:36.318 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, browserstack.app=bs\://6b4e6d68437285663f432490b31a46f00df76fcd, user.dir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+00:37:36.319 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples/browserstack.yml
+00:37:36.346 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while parsing a flow mapping
+ in 'string', line 1, column 1:
+    {userName: YOUR_USERNAME, access ... 
+    ^
+expected ',' or '}', but got {
+ in 'string', line 1, column 61:
+     ... cessKey: YOUR_ACCESS_KEY, app: ${BROWSERSTACK_APP},
+                                         ^
+.
+00:37:36.348 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+00:37:36.350 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+00:37:36.350 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+00:37:36.470 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs\://6b4e6d68437285663f432490b31a46f00df76fcd]
+00:37:36.470 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+00:37:36.471 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 7750fe12-344a-438b-9a21-966644e29ada
+00:37:36.471 [main] INFO  c.b.config.BrowserStackConfig - INFO
+00:37:39.581 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+00:37:40.831 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: z0ayf5crlgbrjbbjdzwrodcmonhmutj3zc2hyegr
+00:37:40.831 [main] INFO  c.b.config.BrowserStackConfig - INFO
+00:37:40.832 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+00:37:49.737 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+00:38:23.326 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/z0ayf5crlgbrjbbjdzwrodcmonhmutj3zc2hyegr to view build report, insights, and many more debugging information all at one place!
+
+00:38:23.326 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+00:38:26.190 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+00:38:27.751 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+00:38:27.751 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+00:38:27.755 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: 7750fe12-344a-438b-9a21-966644e29ada, testhub id: z0ayf5crlgbrjbbjdzwrodcmonhmutj3zc2hyegr
+00:38:27.755 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+00:41:38.679 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+00:41:38.679 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+00:41:38.784 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, browserstack.app=bs\://6b4e6d68437285663f432490b31a46f00df76fcd, user.dir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+00:41:38.784 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples/browserstack.yml
+00:41:38.816 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+00:41:38.818 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+00:41:38.818 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+00:41:38.961 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs\://6b4e6d68437285663f432490b31a46f00df76fcd]
+00:41:38.961 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+00:41:38.962 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: a257b115-7a1f-4bf5-b94f-8540fedac408
+00:41:38.962 [main] INFO  c.b.config.BrowserStackConfig - INFO
+00:41:42.118 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+00:41:43.446 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: opteq7fdpmzxeoaohhnna46tflondaufwjd9td5l
+00:41:43.447 [main] INFO  c.b.config.BrowserStackConfig - INFO
+00:41:43.462 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+00:41:52.414 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+00:42:12.712 [FirstTest@null] INFO  c.b.config.BrowserStackConfig - INFO
+00:42:58.673 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/opteq7fdpmzxeoaohhnna46tflondaufwjd9td5l to view build report, insights, and many more debugging information all at one place!
+
+00:42:58.673 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+00:43:01.551 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+00:43:03.696 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/aa33d8ca6297486e3f0ef061fabebc453b04f0bc
+00:43:03.696 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+00:43:03.716 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: a257b115-7a1f-4bf5-b94f-8540fedac408, testhub id: opteq7fdpmzxeoaohhnna46tflondaufwjd9td5l
+00:43:03.716 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+00:44:00.205 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+00:44:00.205 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+00:44:00.326 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, browserstack.app=bs\://6b4e6d68437285663f432490b31a46f00df76fcd, user.dir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+00:44:00.326 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples/browserstack.yml
+00:44:00.359 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+00:44:00.361 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+00:44:00.361 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+00:44:00.494 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs\://6b4e6d68437285663f432490b31a46f00df76fcd]
+00:44:00.494 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+00:44:00.495 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 437e7c84-ed72-4c23-92b6-95b76108362c
+00:44:00.495 [main] INFO  c.b.config.BrowserStackConfig - INFO
+00:44:03.387 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+00:44:04.797 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: jssxxajkm5q1epkm8wor1ev5uofgnaoih9gxb6pm
+00:44:04.797 [main] INFO  c.b.config.BrowserStackConfig - INFO
+00:44:04.819 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+00:44:13.449 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+00:44:36.062 [FirstTest@null] INFO  c.b.config.BrowserStackConfig - INFO
+00:45:20.354 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/jssxxajkm5q1epkm8wor1ev5uofgnaoih9gxb6pm to view build report, insights, and many more debugging information all at one place!
+
+00:45:20.357 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+00:45:23.609 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+00:45:25.763 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/0b3e912097ed3ca2d78a5601d3ab12d45fb79e0d
+00:45:25.764 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+00:45:25.787 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: 437e7c84-ed72-4c23-92b6-95b76108362c, testhub id: jssxxajkm5q1epkm8wor1ev5uofgnaoih9gxb6pm
+00:45:25.788 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+00:49:11.524 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+00:49:11.524 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+00:49:11.617 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, browserstack.app=bs\://6b4e6d68437285663f432490b31a46f00df76fcd, user.dir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+00:49:11.617 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples/browserstack.yml
+00:49:11.647 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+00:49:11.649 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+00:49:11.649 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+00:49:11.773 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs\://6b4e6d68437285663f432490b31a46f00df76fcd]
+00:49:11.773 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+00:49:11.774 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 1a7018e0-4c48-4de3-8e4a-8829168a33e5
+00:49:11.774 [main] INFO  c.b.config.BrowserStackConfig - INFO
+00:49:16.700 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+00:49:18.242 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: w4aidi2toiueagyp5atcvqr0yczcxg7fwrfoyyzc
+00:49:18.243 [main] INFO  c.b.config.BrowserStackConfig - INFO
+00:49:18.258 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+00:49:27.953 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+00:49:48.603 [FirstTest@null] INFO  c.b.config.BrowserStackConfig - INFO
+00:50:33.808 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/w4aidi2toiueagyp5atcvqr0yczcxg7fwrfoyyzc to view build report, insights, and many more debugging information all at one place!
+
+00:50:33.810 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+00:50:36.739 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+00:50:38.770 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/8de03f0437ce04a71603a23e4ce2ba13bb701def
+00:50:38.771 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+00:50:38.787 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: 1a7018e0-4c48-4de3-8e4a-8829168a33e5, testhub id: w4aidi2toiueagyp5atcvqr0yczcxg7fwrfoyyzc
+00:50:38.787 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+01:00:49.626 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+01:00:49.626 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+01:00:49.719 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, browserstack.app=bs\://6b4e6d68437285663f432490b31a46f00df76fcd, user.dir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+01:00:49.719 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples/browserstack.yml
+01:00:49.749 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+01:00:49.751 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+01:00:49.751 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+01:00:49.876 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs\://6b4e6d68437285663f432490b31a46f00df76fcd]
+01:00:49.876 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+01:00:49.877 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: c3710210-78d7-4b57-befa-e054f2b42ea1
+01:00:49.877 [main] INFO  c.b.config.BrowserStackConfig - INFO
+01:00:53.159 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+01:00:54.744 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: rpd9wekekr2wchn3ckoe7m7880ktlbcl1tukvyin
+01:00:54.745 [main] INFO  c.b.config.BrowserStackConfig - INFO
+01:00:54.765 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+01:01:03.696 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+01:01:24.672 [FirstTest@null] INFO  c.b.config.BrowserStackConfig - INFO
+01:02:08.944 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/rpd9wekekr2wchn3ckoe7m7880ktlbcl1tukvyin to view build report, insights, and many more debugging information all at one place!
+
+01:02:08.945 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+01:02:11.916 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+01:02:14.983 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/3a8f198f49afa97a8aff6707585a23f22efc96a3
+01:02:14.984 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+01:02:15.002 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: c3710210-78d7-4b57-befa-e054f2b42ea1, testhub id: rpd9wekekr2wchn3ckoe7m7880ktlbcl1tukvyin
+01:02:15.002 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+01:05:11.031 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+01:05:11.031 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+01:05:11.121 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, browserstack.app=bs\://6b4e6d68437285663f432490b31a46f00df76fcd, user.dir=/Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples, localrepository=/Users/manyaasokan/.m2/repository}
+01:05:11.122 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manyaasokan/Downloads/Databackup/databackup4/app_a11y_test_project 2/android/testng-examples/browserstack.yml
+01:05:11.151 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+01:05:11.153 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+01:05:11.153 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to true
+01:05:11.275 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs\://6b4e6d68437285663f432490b31a46f00df76fcd]
+01:05:11.275 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+01:05:11.276 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 18abb2a2-f4c9-417e-8e99-dda4d3bf96b3
+01:05:11.276 [main] INFO  c.b.config.BrowserStackConfig - INFO
+01:05:14.626 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+01:05:16.243 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: r2inpvxxkj1aagokabiix9v9oh90ix9lbxsxa3ar
+01:05:16.244 [main] INFO  c.b.config.BrowserStackConfig - INFO
+01:05:16.260 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+01:05:24.973 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+01:05:45.692 [FirstTest@null] INFO  c.b.config.BrowserStackConfig - INFO
+01:06:14.942 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/r2inpvxxkj1aagokabiix9v9oh90ix9lbxsxa3ar to view build report, insights, and many more debugging information all at one place!
+
+01:06:14.944 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+01:06:17.888 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+01:06:19.990 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/2a122a5d1c60d4ddc90d5e5bd8a64bfdf8a1cf07
+01:06:19.991 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+01:06:20.009 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: 18abb2a2-f4c9-417e-8e99-dda4d3bf96b3, testhub id: r2inpvxxkj1aagokabiix9v9oh90ix9lbxsxa3ar
+01:06:20.009 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO

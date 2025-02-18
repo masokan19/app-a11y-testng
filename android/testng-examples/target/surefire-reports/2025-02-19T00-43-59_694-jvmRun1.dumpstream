@@ -1,0 +1,20 @@
+# Created at 2025-02-19T00:44:00.497
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[[1;34mINFO[0;39m] SDK run started with id: 437e7c84-ed72-4c23-92b6-95b76108362c'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '[[1;34mINFO[0;39m] SDK run started with id: 437e7c84-ed72-4c23-92b6-95b76108362c'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+
+# Created at 2025-02-19T00:44:04.799
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[[1;34mINFO[0;39m] Testhub started with id: jssxxajkm5q1epkm8wor1ev5uofgnaoih9gxb6pm'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '[[1;34mINFO[0;39m] Testhub started with id: jssxxajkm5q1epkm8wor1ev5uofgnaoih9gxb6pm'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [First]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="FirstTest(failed)" verbose="0">
+    <parameter name="deviceIndex" value="0"/>
+    <parameter name="config" value="run_first_test/first.conf.json"/>
+    <classes>
+      <class name="com.browserstack.FirstTest">
+        <methods>
+          <include name="test"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.browserstack.FirstTest -->
+    </classes>
+  </test> <!-- FirstTest(failed) -->
+</suite> <!-- Failed suite [First] -->

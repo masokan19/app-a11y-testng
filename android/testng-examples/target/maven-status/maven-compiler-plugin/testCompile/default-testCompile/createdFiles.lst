@@ -1,0 +1,4 @@
+com/browserstack/FirstTest.class
+com/browserstack/ParallelTest.class
+com/browserstack/LocalTest.class
+com/browserstack/BrowserStackTestNGTest.class

@@ -1,0 +1,8 @@
+userName: YOUR_USERNAME
+accessKey: YOUR_ACCESS_KEY
+app: ${BROWSERSTACK_APP}
+projectName: Ally Project
+buildName: A11y build
+buildIdentifier: '#${BUILD_NUMBER}'
+framework: testng
+accessibility: true

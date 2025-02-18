@@ -1,0 +1,20 @@
+{
+  "server": "hub.browserstack.com",
+
+  "capabilities": {
+
+    "bstack:options": {
+
+      "sessionName": "BStack first_test",
+      "debug": true
+    }
+  },
+
+  "environments": [
+    {
+      "deviceName": "Google Pixel 7 Pro",
+      "platformVersion": "13.0",
+      "platformName": "android"
+    }
+  ]
+}
